@@ -74,7 +74,7 @@ const Banner = () => {
           </a> 
           <a
             className=" text-2xl  m-8   px-3  py-2 bg-orange-500  rounded-full shadow-lg"
-            href="" target="_blank">
+            href="https://drive.google.com/file/d/132K52xyIBkUdKXIdYH6eq4ynxZxKnZtR/view?usp=sharing" target="_blank">
           
             Download CV
           </a>
